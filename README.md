@@ -1,4 +1,4 @@
-# classicon_android_studio
+# Classicon
 
 A new Flutter project.
 
